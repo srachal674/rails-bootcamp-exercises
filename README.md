@@ -1,24 +1,17 @@
-# README
+# Rails bootcamp exercises
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails exercises from coding bootcamp, including user authentication and game/resource-related code.
 
-Things you may want to cover:
+## Project contents
 
-* Ruby version
+- `app/controllers/game_controller.rb` contains the game-page exercise.
+- `app/views/game/` contains its views.
+- `app/models/` includes user and resource models.
 
-* System dependencies
+This is a coursework snapshot; the examples are retained as they were developed.
 
-* Configuration
+## Development reference
 
-* Database creation
+The original application code and commit history are preserved. Dependency versions are recorded in `Gemfile`, `Gemfile.lock`, and `.ruby-version`.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Saved environment instructions are available in [bootcamp-setup-guide](https://github.com/srachal674/bootcamp-setup-guide).
